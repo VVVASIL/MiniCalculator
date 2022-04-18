@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniCalculator</string>
+    <string name="name_calc">Калькулятор</string>
+    <string name="hint_1">Введите первое число</string>
+    <string name="hint_2">Введите второе число</string>
+    <string name="sum">Сложение</string>
+    <string name="dif">Вычитание</string>
+    <string name="mltp">Умножение</string>
+    <string name="div">Деление</string>
+</resources>
